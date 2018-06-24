@@ -16,3 +16,5 @@ https://www.tensorflow.org/api_docs/python/tf/nn/local_response_normalization
 http://cs231n.github.io/convolutional-networks/
 
 https://prateekvjoshi.com/2016/04/12/understanding-locally-connected-layers-in-convolutional-neural-networks/
+
+https://www.youtube.com/watch?v=u6aEYuemt0M
