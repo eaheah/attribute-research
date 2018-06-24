@@ -18,3 +18,5 @@ http://cs231n.github.io/convolutional-networks/
 https://prateekvjoshi.com/2016/04/12/understanding-locally-connected-layers-in-convolutional-neural-networks/
 
 https://www.youtube.com/watch?v=u6aEYuemt0M
+
+http://people.csail.mit.edu/torralba/shortCourseRLOC/index.html
